@@ -1,0 +1,66 @@
+[
+  {
+    "id": "driver-app",
+    "title": "Driver App",
+    "tagline": "Everything a driver logs, from pickup to office return.",
+    "features": [
+      {
+        "icon": "LogIn",
+        "title": "Secure Driver Login",
+        "description": "Every action in the system is tied to a verified driver identity and a daily assigned route."
+      },
+      {
+        "icon": "PackageSearch",
+        "title": "Pickup Logging",
+        "description": "Facility, team, item type, and quantity recorded in seconds, with a timestamped pickup photo."
+      },
+      {
+        "icon": "ImagePlus",
+        "title": "Delivery Photo Proof",
+        "description": "Delivery location, team, and condition logged with photo proof. No signatures required."
+      },
+      {
+        "icon": "TriangleAlert",
+        "title": "Quick Incident Reporting",
+        "description": "Wrong facility, wrong quantity, damage, closure, or delay — flagged in one tap from the field."
+      },
+      {
+        "icon": "LayoutDashboard",
+        "title": "Daily Dashboard",
+        "description": "Today's pickups, deliveries, tray and bin counts, completed routes, and open issues at a glance."
+      }
+    ]
+  },
+  {
+    "id": "rep-portal",
+    "title": "Rep Portal",
+    "tagline": "Real-time visibility for the team receiving your instruments.",
+    "features": [
+      {
+        "icon": "Activity",
+        "title": "Live Status Board",
+        "description": "Picked up, in transit, and delivered — with quantities, facility, team, and photo proof in real time."
+      },
+      {
+        "icon": "FileSearch",
+        "title": "Item Detail View",
+        "description": "Pickup and delivery photos, quantities, timestamps, and driver information for any tray or bin."
+      },
+      {
+        "icon": "Hand",
+        "title": "Ready for Office Pickup",
+        "description": "One tap notifies dispatch, opens a new driver route, and creates a timestamped pickup record."
+      },
+      {
+        "icon": "History",
+        "title": "Route History",
+        "description": "A complete audit trail from pickup to delivery to office return, with photos and timestamps attached."
+      },
+      {
+        "icon": "ClipboardList",
+        "title": "Compliance Reports",
+        "description": "Chain-of-custody logs, photo proof logs, movement logs, delivery times, and incident logs, exportable on demand."
+      }
+    ]
+  }
+]

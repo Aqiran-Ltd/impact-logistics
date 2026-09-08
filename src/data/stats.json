@@ -1,0 +1,11 @@
+[
+  {
+    "id": "trays-transported",
+    "value": 1200000,
+    "suffix": "+",
+    "label": "Trays & bins transported annually"
+  },
+  { "id": "states-served", "value": 36, "suffix": "", "label": "States served nationwide" },
+  { "id": "on-time", "value": 99.6, "suffix": "%", "label": "On-time delivery rate" },
+  { "id": "dispatch", "value": 24, "suffix": "/7", "label": "Dispatch availability" }
+]

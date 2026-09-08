@@ -1,0 +1,34 @@
+[
+  {
+    "id": "t1",
+    "quote": "We stopped chasing drivers for status updates. Now our team just checks the portal — pickup photo, delivery photo, done.",
+    "name": "Monica Alvarez",
+    "role": "OR Director",
+    "facilityType": "Regional Hospital Network",
+    "initials": "MA"
+  },
+  {
+    "id": "t2",
+    "quote": "The chain-of-custody logs turned our quarterly compliance review from a scramble into a five-minute export.",
+    "name": "David Chen",
+    "role": "Sterile Processing Manager",
+    "facilityType": "Ambulatory Surgery Center",
+    "initials": "DC"
+  },
+  {
+    "id": "t3",
+    "quote": "Office pickup requests used to mean a phone call and a wait. Now it's one tap and a driver's on the way.",
+    "name": "Priya Nair",
+    "role": "Surgical Services Coordinator",
+    "facilityType": "Level I Trauma Center",
+    "initials": "PN"
+  },
+  {
+    "id": "t4",
+    "quote": "Every damaged tray gets flagged and photographed before it's even back in our building. That's a different level of accountability.",
+    "name": "Aaron Whitfield",
+    "role": "Materials Manager",
+    "facilityType": "Specialty Surgical Group",
+    "initials": "AW"
+  }
+]

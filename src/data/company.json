@@ -1,0 +1,14 @@
+{
+  "name": "Impact Medical Logistics",
+  "legalName": "Impact Medical Logistics, Inc.",
+  "founded": "2014",
+  "hqAddress": {
+    "line1": "4820 Distribution Way, Suite 200",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28216"
+  },
+  "phone": "+1 (704) 555-0142",
+  "email": "dispatch@impactmedlogistics.com",
+  "supportHours": "Dispatch available 24/7 — office hours Mon–Fri, 8:00 AM–6:00 PM ET"
+}

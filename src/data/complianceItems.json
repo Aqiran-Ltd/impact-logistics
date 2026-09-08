@@ -1,0 +1,38 @@
+[
+  {
+    "id": "chain-of-custody",
+    "icon": "ShieldCheck",
+    "title": "Full Chain of Custody",
+    "description": "Every tray and bin is tracked from pickup to delivery to office return, with a driver, route, and timestamp attached to each step."
+  },
+  {
+    "id": "photo-verification",
+    "icon": "Camera",
+    "title": "Photo-Verified Handoffs",
+    "description": "Pickup and delivery are both documented with timestamped photos, removing ambiguity about condition or contents at every stop."
+  },
+  {
+    "id": "audit-trail",
+    "icon": "History",
+    "title": "Exportable Audit Trails",
+    "description": "Route history, movement logs, and delivery times are available on demand for internal review or regulatory audit."
+  },
+  {
+    "id": "incident-tracking",
+    "icon": "TriangleAlert",
+    "title": "Structured Incident Tracking",
+    "description": "Wrong facility, wrong quantity, damage, closure, or delay — every exception is logged, timestamped, and tracked to resolution."
+  },
+  {
+    "id": "data-retention",
+    "icon": "Lock",
+    "title": "Access-Controlled Records",
+    "description": "Custody records are retained on a defined schedule and accessible only to authorized facility and compliance contacts."
+  },
+  {
+    "id": "driver-verification",
+    "icon": "BadgeCheck",
+    "title": "Verified Driver Identity",
+    "description": "Every action in the system is tied to a logged-in, identity-verified driver — no anonymous handoffs."
+  }
+]

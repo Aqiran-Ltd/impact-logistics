@@ -1,0 +1,26 @@
+[
+  {
+    "id": "founded",
+    "year": "2014",
+    "title": "Founded in Charlotte, NC",
+    "description": "Started as a two-van courier service for a single regional hospital network."
+  },
+  {
+    "id": "expansion",
+    "year": "2018",
+    "title": "Regional Expansion",
+    "description": "Opened dispatch hubs across the Southeast and Midwest to shorten route times for growing facility networks."
+  },
+  {
+    "id": "platform",
+    "year": "2021",
+    "title": "Driver App & Rep Portal Launched",
+    "description": "Replaced paper logs with photo-verified, timestamped chain-of-custody tracking for every route."
+  },
+  {
+    "id": "national",
+    "year": "2024",
+    "title": "Nationwide Coverage",
+    "description": "Reached coverage across 36 states, with regional hubs supporting hospitals and surgery centers coast to coast."
+  }
+]

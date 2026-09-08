@@ -1,0 +1,32 @@
+[
+  {
+    "id": "f1",
+    "question": "What counts as a chain-of-custody event?",
+    "answer": "Any handoff of a tray or bin — pickup from your facility, delivery to another facility, or return to our office — is logged with a timestamp, driver identity, and photo proof."
+  },
+  {
+    "id": "f2",
+    "question": "Do you require signatures on delivery?",
+    "answer": "No. Deliveries are confirmed with a timestamped photo and condition status (OK or Issue) instead, which keeps handoffs fast without sacrificing verification."
+  },
+  {
+    "id": "f3",
+    "question": "How quickly can you respond to a STAT request?",
+    "answer": "STAT and emergency courier requests are routed directly to regional dispatch, typically with a sub-hour pickup window depending on driver proximity."
+  },
+  {
+    "id": "f4",
+    "question": "Can our compliance team pull reports on their own?",
+    "answer": "Yes. Rep portal access includes on-demand chain-of-custody logs, photo proof logs, movement logs, and incident logs, exportable by date range or facility."
+  },
+  {
+    "id": "f5",
+    "question": "What happens if there's a problem in transit?",
+    "answer": "Drivers log incidents in the field — wrong facility, wrong quantity, damage, closure, or delay — and your team is notified with full detail, not just a phone call after the fact."
+  },
+  {
+    "id": "f6",
+    "question": "How long does onboarding take for a new facility?",
+    "answer": "Most facilities are fully onboarded within two to three weeks, including route design, rep portal setup, and a 30-day onboarding review."
+  }
+]

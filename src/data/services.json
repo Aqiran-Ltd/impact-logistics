@@ -1,0 +1,90 @@
+[
+  {
+    "id": "tray-bin-transport",
+    "icon": "Truck",
+    "title": "Surgical Tray & Bin Transport",
+    "summary": "Scheduled and on-demand courier routes moving trays and bins between hospitals, surgery centers, and processing facilities.",
+    "features": [
+      "Dedicated route drivers, not rotating gig couriers",
+      "Tray and bin quantities logged at every stop",
+      "Climate-aware handling for sensitive instrumentation"
+    ]
+  },
+  {
+    "id": "chain-of-custody",
+    "icon": "Camera",
+    "title": "Chain-of-Custody Documentation",
+    "summary": "Every pickup and delivery is photo-verified and timestamped, so custody of an instrument set is never in question.",
+    "features": [
+      "Photo proof captured at pickup and delivery",
+      "Driver identity tied to every action",
+      "Immutable timestamped record per handoff"
+    ]
+  },
+  {
+    "id": "route-dispatch",
+    "icon": "Route",
+    "title": "Route & Dispatch Management",
+    "summary": "Centralized dispatch builds and adjusts daily routes in real time as pickups, delays, and rush requests come in.",
+    "features": [
+      "Live route status visible to facility reps",
+      "Automatic re-routing for rush requests",
+      "Office-pickup requests dispatched in minutes"
+    ]
+  },
+  {
+    "id": "compliance-reporting",
+    "icon": "FileCheck2",
+    "title": "Compliance Reporting",
+    "summary": "Audit-ready reporting for chain-of-custody, delivery times, and incidents, built for hospital compliance review.",
+    "features": [
+      "Exportable chain-of-custody logs",
+      "Delivery time and SLA reporting",
+      "Incident and exception logs on demand"
+    ]
+  },
+  {
+    "id": "stat-courier",
+    "icon": "Siren",
+    "title": "STAT & Emergency Courier",
+    "summary": "Priority dispatch for time-critical instrument sets and urgent facility-to-facility transfers.",
+    "features": [
+      "Sub-hour priority dispatch windows",
+      "Direct line to regional dispatch",
+      "Real-time ETA updates to the requesting facility"
+    ]
+  },
+  {
+    "id": "facility-onboarding",
+    "icon": "Building2",
+    "title": "Facility Onboarding",
+    "summary": "A structured rollout for new hospitals and surgery centers, from route design to rep portal training.",
+    "features": [
+      "Route and pickup-window design",
+      "Rep portal setup and training",
+      "30-day onboarding review"
+    ]
+  },
+  {
+    "id": "incident-management",
+    "icon": "AlertTriangle",
+    "title": "Incident Management",
+    "summary": "Structured incident capture for wrong facility, wrong quantity, damage, or delay, resolved with full documentation.",
+    "features": [
+      "One-tap incident reporting from the field",
+      "Root-cause tracking by facility and team",
+      "Resolution timeline on every case"
+    ]
+  },
+  {
+    "id": "regional-staging",
+    "icon": "Warehouse",
+    "title": "Regional Warehousing & Staging",
+    "summary": "Regional staging hubs keep routes short and reliable across dense metro and rural service areas alike.",
+    "features": [
+      "Regional dispatch hubs nationwide",
+      "Overflow and staging capacity on request",
+      "Coordinated multi-facility circuits"
+    ]
+  }
+]

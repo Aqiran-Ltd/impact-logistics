@@ -1,0 +1,37 @@
+[
+  {
+    "id": "northeast",
+    "region": "Northeast",
+    "states": ["NY", "NJ", "PA", "MA", "CT"],
+    "dispatchHub": "Newark, NJ",
+    "description": "Dense metro routing across major hospital corridors from Boston to Philadelphia."
+  },
+  {
+    "id": "southeast",
+    "region": "Southeast",
+    "states": ["NC", "SC", "GA", "FL", "TN"],
+    "dispatchHub": "Charlotte, NC",
+    "description": "Our founding region and largest hub network, anchoring routes across the coastal Southeast."
+  },
+  {
+    "id": "midwest",
+    "region": "Midwest",
+    "states": ["OH", "IN", "IL", "MI", "MO"],
+    "dispatchHub": "Columbus, OH",
+    "description": "Cross-state circuits linking regional hospital networks throughout the industrial Midwest."
+  },
+  {
+    "id": "southwest",
+    "region": "Southwest",
+    "states": ["TX", "OK", "AZ", "NM"],
+    "dispatchHub": "Dallas, TX",
+    "description": "High-volume routes across sprawling metro areas and long-haul rural facility circuits."
+  },
+  {
+    "id": "west",
+    "region": "West",
+    "states": ["CA", "NV", "WA", "OR", "CO"],
+    "dispatchHub": "Sacramento, CA",
+    "description": "Coastal and mountain-region coverage supporting surgical networks from Seattle to San Diego."
+  }
+]

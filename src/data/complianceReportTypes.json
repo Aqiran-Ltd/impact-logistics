@@ -1,0 +1,27 @@
+[
+  {
+    "id": "custody-log",
+    "title": "Chain-of-Custody Log",
+    "description": "Full pickup-to-delivery record for a facility, team, or date range, including photo references and driver IDs."
+  },
+  {
+    "id": "photo-proof-log",
+    "title": "Photo Proof Log",
+    "description": "Indexed pickup and delivery photos for a route, facility, or specific tray/bin, for rapid dispute resolution."
+  },
+  {
+    "id": "movement-log",
+    "title": "Tray & Bin Movement Log",
+    "description": "Quantity movement across facilities over time, useful for inventory reconciliation and utilization review."
+  },
+  {
+    "id": "delivery-times",
+    "title": "Delivery Time Report",
+    "description": "On-time performance by route, facility, and driver, benchmarked against your service-level agreement."
+  },
+  {
+    "id": "incident-log",
+    "title": "Incident Log",
+    "description": "Every flagged exception with category, facility, timestamp, and resolution status."
+  }
+]

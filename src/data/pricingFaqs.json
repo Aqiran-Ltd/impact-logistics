@@ -1,0 +1,17 @@
+[
+  {
+    "id": "p1",
+    "question": "How is my rate actually calculated?",
+    "answer": "It's tray and bin count times a base rate, scaled by how fast you need it (standard, priority, or STAT) and how far it's going (local, regional, or long-haul), with a minimum charge floor per route."
+  },
+  {
+    "id": "p2",
+    "question": "Do you offer volume pricing for high-volume facilities?",
+    "answer": "Yes. Facilities running multiple daily routes or multi-site networks typically move to a custom volume agreement — request a quote and we'll build one around your actual route pattern."
+  },
+  {
+    "id": "p3",
+    "question": "Is the online estimate the final price?",
+    "answer": "No — it's a live estimate using the same base formula dispatch uses. Final pricing is confirmed during onboarding once your facility's exact route and pickup windows are set."
+  }
+]

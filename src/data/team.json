@@ -1,0 +1,30 @@
+[
+  {
+    "id": "m1",
+    "name": "Rachel Osei",
+    "role": "Chief Executive Officer",
+    "bio": "Two decades in healthcare logistics operations, focused on building courier systems hospitals can actually audit.",
+    "initials": "RO"
+  },
+  {
+    "id": "m2",
+    "name": "Marcus Bellweather",
+    "role": "VP of Operations",
+    "bio": "Leads national dispatch and route strategy, previously ran regional logistics for a multi-state hospital network.",
+    "initials": "MB"
+  },
+  {
+    "id": "m3",
+    "name": "Sofia Reyes",
+    "role": "Director of Compliance",
+    "bio": "Builds the reporting standards that keep every chain-of-custody record audit-ready before a client ever asks.",
+    "initials": "SR"
+  },
+  {
+    "id": "m4",
+    "name": "Dominic Farrow",
+    "role": "Head of Platform Engineering",
+    "bio": "Owns the driver app and rep portal, with a mandate to keep every handoff photo-verified and instant.",
+    "initials": "DF"
+  }
+]

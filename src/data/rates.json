@@ -1,0 +1,46 @@
+{
+  "trayRate": 18,
+  "binRate": 24,
+  "minimumCharge": 45,
+  "currency": "USD",
+  "serviceTiers": [
+    {
+      "id": "standard",
+      "label": "Standard",
+      "description": "Scheduled route, next available pickup window.",
+      "multiplier": 1
+    },
+    {
+      "id": "priority",
+      "label": "Priority",
+      "description": "Same-day pickup, priority position in the dispatch queue.",
+      "multiplier": 1.35
+    },
+    {
+      "id": "stat",
+      "label": "STAT / Emergency",
+      "description": "Sub-hour dispatch for time-critical facility-to-facility transfers.",
+      "multiplier": 1.75
+    }
+  ],
+  "distanceTiers": [
+    {
+      "id": "local",
+      "label": "Local",
+      "description": "Under 50 miles",
+      "multiplier": 1
+    },
+    {
+      "id": "regional",
+      "label": "Regional",
+      "description": "50–250 miles",
+      "multiplier": 1.4
+    },
+    {
+      "id": "long-haul",
+      "label": "Long-Haul",
+      "description": "250+ miles",
+      "multiplier": 1.9
+    }
+  ]
+}

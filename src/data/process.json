@@ -1,0 +1,30 @@
+[
+  {
+    "id": "pickup",
+    "order": 1,
+    "icon": "PackageCheck",
+    "title": "Pickup",
+    "description": "A driver arrives at the hospital or surgery center, logs the team, item type, and quantity, and captures a timestamped pickup photo."
+  },
+  {
+    "id": "custody",
+    "order": 2,
+    "icon": "ShieldCheck",
+    "title": "Chain of Custody",
+    "description": "Every handoff is recorded automatically — driver, route, facility, team, and quantities — building a complete audit trail in transit."
+  },
+  {
+    "id": "delivery",
+    "order": 3,
+    "icon": "MapPinCheck",
+    "title": "Delivery",
+    "description": "On arrival, the driver logs delivery condition and captures photo proof. No signatures, no ambiguity — just a verified record."
+  },
+  {
+    "id": "verified",
+    "order": 4,
+    "icon": "BadgeCheck",
+    "title": "Verified",
+    "description": "The receiving rep sees pickup and delivery photos, quantities, and timestamps instantly, and can request office pickup in one tap."
+  }
+]
